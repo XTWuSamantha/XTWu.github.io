@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an MPhil student at the Statistics and Data Science Department, Southern University of Science and Technology (SUSTech) and I expect to graduate in 2024. My research interests focus on machine learning, image processing, medical images, and learning theory. My MPhil degree thesis is about the unsupervised selection of labeled data for efficient semi-supervised learning. In addition, I obtained a double degree in Mathematics and Finance from South China University of Technology (SCUT) in 2022.[CV](http://xtwusamantha.github.io/files/CV.pdf)
+I'm currently an MPhil student at the Statistics and Data Science Department, Southern University of Science and Technology (SUSTech) and I expect to graduate in 2024. My research interests focus on machine learning, image processing, medical images, and learning theory. My MPhil degree thesis is about the unsupervised selection of labeled data for efficient semi-supervised learning. In addition, I obtained a double degree in Mathematics and Finance from South China University of Technology (SCUT) in 2022. Here is my [CV](http://xtwusamantha.github.io/files/CV.pdf).
 
 Education
 ======
