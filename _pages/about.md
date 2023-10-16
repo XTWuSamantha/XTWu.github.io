@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My academic personal websites"
+title: "Welcome to my website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an Mphill Student from Southern University of Science and Technology (SUSTech).
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm currently an MPhil student at the Statistics and Data Science Department, Southern University of Science and Technology (SUSTech) and I expect to graduate in 2024. My research interests focus on machine learning, image processing, medical images, and learning theory. My MPhil degree thesis is about the unsupervised selection of labeled data for efficient semi-supervised learning. In addition, I obtained a double degree in Mathematics and Finance from South China University of Technology (SCUT) in 2022.
 
 A data-driven personal website
 ======
