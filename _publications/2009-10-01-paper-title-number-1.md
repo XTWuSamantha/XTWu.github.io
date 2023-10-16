@@ -6,6 +6,6 @@ excerpt: 'We propose a novel data formulation model for X-ray microspectroscopy 
 date: 2023-08-01
 venue: 'arXiv:2308.04207(preprint)'
 paperurl: 'http://xtwusamantha.github.io/files/2308.04207.pdf'
-citation: 'T. Wang, X. Wu, J. Li, and C. Wang. Robust retrieval of material chemical states in X-ray microspectroscopy. arXiv:2308.04207'
+citation: 'T. Wang, X. Wu, J. Li, and C. Wang. Robust retrieval of material chemical states in X-ray microspectroscopy. arXiv:2308.04207.'
 ---
 
