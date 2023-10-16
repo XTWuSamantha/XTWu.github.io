@@ -85,9 +85,9 @@ author:
   bio              : "Southern University of Science and Technology"
   location         : "Shenzhen, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "12232877@mail.sustech.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
