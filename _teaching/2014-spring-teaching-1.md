@@ -1,7 +1,7 @@
 ---
 title: "Operational Research and Optimization"
 collection: teaching
-type: "Workshop"
+type: "Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
 venue: "SUSTech, Statistics and Data Science"
 date: 2023-02-18
