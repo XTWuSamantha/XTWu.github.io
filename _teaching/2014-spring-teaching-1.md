@@ -7,14 +7,3 @@ venue: "SUSTech, Statistics and Data Science"
 date: 2023-02-18
 location: "Shenzhen, Guangdong"
 ---
-
-Operational Research and Optimization
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
