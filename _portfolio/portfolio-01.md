@@ -4,4 +4,4 @@ excerpt: "Semi-supervised learning methods are divided into four categories and 
 collection: portfolio
 ---
 
-[link](http://xtwusamantha.github.io/files/SSL-Overview.pdf)
+[note](http://xtwusamantha.github.io/files/SSL-Overview.pdf)
