@@ -7,4 +7,4 @@ redirect_from:
   - /markdown.html
 ---
 
-Please email me: 12232877@mail.sustech.edu.cn
+Please email me: **12232877@mail.sustech.edu.cn**
