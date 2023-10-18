@@ -1,5 +1,5 @@
 ---
-title: "(Contrastive Learning)Improving Contrastive Learning on Imbalanced Seed Data via Open-World Sampling"
+title: "(Contrastive Learning) Improving Contrastive Learning on Imbalanced Seed Data via Open-World Sampling"
 excerpt: "The data sampled from open-world always show a long tail distribution, further hurting the balancedness of contrastive learning. This paper proposed a unified sampling framework called MAK. It significantly boosts the balancedness and accuracy of contrastive learning via strategically sampling additional data. (2022/10/19)<br/>"
 collection: portfolio
 ---
