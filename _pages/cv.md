@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my CV.
+Here is my [CV](http://xtwusamantha.github.io/files/CV.pdf).
 ======
-[CV]()
 
 Publications
 ======
