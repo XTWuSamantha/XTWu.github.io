@@ -1,7 +1,7 @@
 ---
-title: "(Semi-Supervised Learning) An Embarrassingly Simple Baseline for Imbalanced Semi-Supervised Learning"
-excerpt: "Supplement the infrequent classes with more pseudo-labels and frequent classes with less pseudo-labels after each training epoch (2022/12/06)<br/>"
+title: "RDA: Reciprocal Distribution Alignment for Robust Semi-Supervised Learning"
+excerpt: "RDA enforces a reciprocal alignment on the distributions of the predictions from two classifiers predicting pseudo-labels and complementary labels on the unlabeled data. (2022/11/17)<br/>"
 collection: portfolio
 ---
 
-[note](http://xtwusamantha.github.io/files/SimiS.pdf)
+[note](http://xtwusamantha.github.io/files/RDA-note.pdf)
