@@ -4,4 +4,4 @@ excerpt: "Supplement the infrequent classes with more pseudo-labels and frequent
 collection: portfolio
 ---
 
-[link](http://xtwusamantha.github.io/files/SimiS.pdf)
+[note](http://xtwusamantha.github.io/files/SimiS.pdf)
