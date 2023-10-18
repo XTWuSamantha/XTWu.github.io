@@ -30,4 +30,11 @@ Publications
 [preprint] T. Wang, **X. Wu**, J. Li, and C. Wang. Robust retrieval of material chemical states in X-ray microspectroscopy. arXiv:2308.04207 [pdf](http://xtwusamantha.github.io/files/2308.04207.pdf)
 
 
+Contact Information
+======
+Email: 12232877@mail.sustech.edu.cn
+Phone: (+86) 187-1869-4128
+Address: 1088 Xueyuan Avenue, Shenzhen 518055, P.R. China
+
+
 
