@@ -1,6 +1,6 @@
 ---
 title: "Propagation Regularizer for Semi-supervised Learning with Extremely Scarce Labeled Samples"
-excerpt: "Propose a propagation regularizer which can achieve efficient and effective learning with extremely scarce labeled samples by suppressing confirmation bias (2023/08/19)<br/>"
+excerpt: "Propose a propagation regularizer which can achieve efficient and effective learning with extremely scarce labeled samples by suppressing confirmation bias (2023/08/19)<br/>"
 collection: portfolio
 ---
 
