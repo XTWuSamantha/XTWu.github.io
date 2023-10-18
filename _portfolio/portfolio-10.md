@@ -1,8 +1,8 @@
 ---
-title: "(Overview) A Survey on Deep Semi-supervised Learning111"
-excerpt: "Semi-supervised learning methods are divided into four categories and some methods are selected and introduced respectively. (2022/10/12)<br/>"
+title: "Self-Adaptive Multiprototype-Based Competitive Learning Approach: A k-Means-Type Algorithm for Imbalanced Data Clustering"
+excerpt: "Use multiple subclusters to represent each cluster with an automatic adjustment of the number of subclusters (2023/06/26)<br/>"
 collection: portfolio
 ---
 
-[link](http://xtwusamantha.github.io/files/SSL-Overview.pdf)
+[note](http://xtwusamantha.github.io/files/Self-Adaptive-Multiprototype-Based.pdf)
 
