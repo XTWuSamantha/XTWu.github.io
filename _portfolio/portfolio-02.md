@@ -4,4 +4,4 @@ excerpt: "The data sampled from open-world always show a long tail distribution,
 collection: portfolio
 ---
 
-[link](http://xtwusamantha.github.io/files/improving-contrastive-learning-on-imbalanced-data-via-open-world-sampling.pdf)
+[note](http://xtwusamantha.github.io/files/improving-contrastive-learning-on-imbalanced-data-via-open-world-sampling.pdf)
