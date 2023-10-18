@@ -4,4 +4,4 @@ excerpt: "Use unsupervised learning methods to solve the effective selection pro
 collection: portfolio
 ---
 
-[link](http://xtwusamantha.github.io/files/Unsupervised_Selective_Labeling_SSL_ECCV22.pdf)
+[note](http://xtwusamantha.github.io/files/Unsupervised_Selective_Labeling_SSL_ECCV22.pdf)
