@@ -6,7 +6,7 @@ main:
   - title: "Seminar"
     url: /talks/     
     
-  - title: "Note of Paper"
+  - title: "Reading Record"
     url: /portfolio/
         
   #- title: "Blog Posts"
