@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[link](http://xtwusamantha.github.io/files/CV.pdf).
+[link](http://xtwusamantha.github.io/files/CV.pdf)
