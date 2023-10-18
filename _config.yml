@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xiaotong WU"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xiaotong WU"
 description              : &description "personal description"
 URL                      : "https://xtwusamantha.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
