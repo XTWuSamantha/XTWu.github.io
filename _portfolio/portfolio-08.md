@@ -4,4 +4,4 @@ excerpt: "Improve the recently-proposed “MixMatch” semi-supervised learning 
 collection: portfolio
 ---
 
-[link](http://xtwusamantha.github.io/files/ReMixMatch.pdf)
+[note](http://xtwusamantha.github.io/files/ReMixMatch.pdf)
