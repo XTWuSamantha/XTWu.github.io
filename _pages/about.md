@@ -32,9 +32,9 @@ Publications
 
 Contact Information
 ======
-Email: 12232877@mail.sustech.edu.cn
-Phone: (+86) 187-1869-4128
-Address: 1088 Xueyuan Avenue, Shenzhen 518055, P.R. China
+* Email: 12232877@mail.sustech.edu.cn
+* Phone: (+86) 187-1869-4128
+* Address: 1088 Xueyuan Avenue, Shenzhen 518055, P.R. China
 
 
 
