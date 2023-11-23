@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xiaotong Wu. I am currently **an MPhil candidate at the Department of Statistics and Data Science, Southern University of Science and Technology (SUSTech)**, advised by Prof. Chao Wang. Prior to that, I received a double degree in Mathematics and Finance from South China University of Technology (SCUT) in 2022. This homepage contains some of my academic achievements and records, thank you for browsing. Here is my [CV](http://xtwusamantha.github.io/files/CV.pdf).
+My name is Xiaotong Wu. I am currently **a second-year master's student at the Department of Statistics and Data Science, Southern University of Science and Technology (SUSTech)**, advised by Prof. [Chao Wang](https://wangcmath.github.io). Prior to that, I received a double degree in Mathematics and Finance from South China University of Technology (SCUT) in 2022. This homepage contains some of my academic achievements and records, thank you for browsing. Here is my [CV](http://xtwusamantha.github.io/files/CV.pdf).
 
 Research Interests
 ======
