@@ -25,9 +25,9 @@ Education
 * M.S. in Mathematics, Southern University of Science and Technology, 2024 (expected)
 
 
-Publications
+News
 ======
-[preprint] T. Wang, **X. Wu**, J. Li, and C. Wang. Robust retrieval of material chemical states in X-ray microspectroscopy. arXiv:2308.04207 [pdf](http://xtwusamantha.github.io/files/2308.04207.pdf)
+Nov. 2023, our work on Robust retrieval of material chemical states in X-ray microspectroscopy was accepted by Optics Express. [pdf](http://xtwusamantha.github.io/files/RUM.pdf)
 
 
 Contact Information
